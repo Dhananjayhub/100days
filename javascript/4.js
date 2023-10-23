@@ -1,1 +1,6 @@
-factorial of n (n!) = 1 * 2 * 3 * 4.....n
+const message = "JavaScript is fun";
+
+// slice the substring from index 0 to 10
+let result = message.slice(0, 10);
+console.log(result);
+
