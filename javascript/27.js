@@ -455,3 +455,71 @@ clonePerson.name = 'Peter';
 
 console.log(clonePerson.name);
 console.log(person.name);
+sole.log(person.name);
+onsole.log(person.name);
+
+console.log(clonePerson.name);
+console.log(person.name);
+nsole.log(clonePerson.name);
+console.log(person.name);
+// cloning the object
+const clonePerson = Object.assign({}, person);
+
+console.log(clonePerson);
+
+// changing the value of clonePerson
+clonePerson.name = 'Peter';
+
+console.log(clonePerson.name);
+console.log(person.name);
+sole.log(person.name);
+onsole.log(person.name);
+
+console.log(clonePerson.name);
+console.log(person.name);
+nsole.log(clonePerson.name);
+console.log(person.name);
+// cloning the object
+const clonePerson = Object.assign({}, person);
+
+console.log(clonePerson);
+
+// changing the value of clonePerson
+clonePerson.name = 'Peter';
+
+console.log(clonePerson.name);
+console.log(person.name);
+sole.log(person.name);
+onsole.log(person.name);
+
+console.log(clonePerson.name);
+console.log(person.name);
+nsole.log(clonePerson.name);
+console.log(person.name);
+// cloning the object
+const clonePerson = Object.assign({}, person);
+
+console.log(clonePerson);
+
+// changing the value of clonePerson
+clonePerson.name = 'Peter';
+
+console.log(clonePerson.name);
+console.log(person.name);
+sole.log(person.name);
+onsole.log(person.name);
+
+console.log(clonePerson.name);
+console.log(person.name);
+nsole.log(clonePerson.name);
+console.log(person.name);
+// cloning the object
+const clonePerson = Object.assign({}, person);
+
+console.log(clonePerson);
+
+// changing the value of clonePerson
+clonePerson.name = 'Peter';
+
+console.log(clonePerson.name);
+console.log(person.name);
