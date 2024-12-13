@@ -2047,3 +2047,4 @@ clonePerson.name = 'Peter';
 
 console.log(clonePerson.name);
 console.log(person.name);
+
